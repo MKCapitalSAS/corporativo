@@ -1,0 +1,14 @@
+/*FAMILIA LETRA PACIFICO*/
+.pacifico{
+  font-family: 'Pacifico', cursive;
+}
+
+/*TAMAÑO LETRA GRANDE*/
+.grande{
+  font-size: 35px;
+}
+
+.fondoBlanco{
+  background-color: #b6b6ad;
+  color: white;
+}
